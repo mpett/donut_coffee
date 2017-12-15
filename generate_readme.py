@@ -4,7 +4,7 @@ def gen(num_files):
 	file = open("README.md", "w")
 	file.write("# blends")
 	file.write("\n")
-	for x in range(1, num_files+1):
+	for x in reversed(range(1, num_files+1)):
 		file.write("![Donut Project](images/im" + str(x) + ".png)")
 		file.write("\n")
 	file.close()
