@@ -1,5 +1,4 @@
 # blends
-![Donut Project](images/im31.png)
 ![Donut Project](images/im30.png)
 ![Donut Project](images/im29.png)
 ![Donut Project](images/im28.png)
